@@ -1,0 +1,14 @@
+div{
+	font-size: 15px;
+	height: 210px;
+	width: 250px;
+	text-align: left;
+	border: 3px solid orange;
+	margin: 0px;
+}
+p{
+	padding: 0px;
+}
+h3{
+	padding-left: 0px;
+}
